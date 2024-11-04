@@ -10,9 +10,9 @@ const Navbar = () => {
 
     return (
         <nav className="navbar">
-            <div className="navbar-brand">
+            {/* <div className="navbar-brand">
                 <h1>ShopLogo</h1>
-            </div>
+            </div> */}
 
             {/* Search Bar */}
             <div className="navbar-search">
